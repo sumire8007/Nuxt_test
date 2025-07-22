@@ -37,3 +37,6 @@ description: 'let`s learn Nuxt.js',
 padding: 30px;
 }
 </style>
+
+
+<!-- ブランチを切った -->
