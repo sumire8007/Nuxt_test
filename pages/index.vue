@@ -49,3 +49,4 @@ padding: 30px;
 <!-- feature/test2ブランチ3回目 -->
 
 テスト
+テスト2
