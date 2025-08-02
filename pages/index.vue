@@ -1,5 +1,6 @@
 <template>
 <div class="container">
+    ヘッダー
     <h1>{{ title }}</h1>
 
     <NuxtLink to="/users/test">usersへ</NuxtLink>
@@ -7,6 +8,8 @@
     <p>{{ description }}</p>
 
     <NuxtLink to="/other">otherへ</NuxtLink>
+    <br />
+    <NuxtLink to="/index2">index2へ</NuxtLink>
 
     <NuxtLogo></NuxtLogo>
 
@@ -45,3 +48,4 @@ padding: 30px;
 <!-- feature/test2ブランチ2回目 -->
 <!-- feature/test2ブランチ3回目 -->
 
+テスト
